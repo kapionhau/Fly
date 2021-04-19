@@ -1,3 +1,4 @@
+proxies:
 - {name: 🇺🇸 美國40小東科技, server: nn-ssr10.feiclouddd.me, port: 443, type: vmess, uuid: 293c9602-981f-4766-bb56-7bebb84da721, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /fgdfdsg, ws-headers: {Host: nn-ssr10.feiclouddd.me}}
 - {name: 🇭🇰 香港10-50曉柒科技1, server: 120.209.53.122, port: 40001, type: trojan, password: 1a4ca082, skip-cert-verify: false}
 - {"name":"🇨🇳 CN_151 | 6.16Mb","server":"p7.22332e.com","type":"ssr","country":"🇨🇳 CN","port":8333,"password":"passfw2xs4e!","cipher":"rc4-md5","protocol":"origin","obfs":"plain"}
