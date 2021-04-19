@@ -1,8 +1,8 @@
-  - {name: 🇭🇰 香港75小東科技-不穩, server: gzcm01.iplc188.com, port: 10001, type: vmess, uuid: 7be91d0d-a814-402c-ab5f-4ac32debed20, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇺🇸 美國120小東科技, server: 66.115.182.77, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
-  - {name: 🇺🇸 美國75小東科技, server: 185.246.209.50, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 🇺🇸 美國40小東科技, server: nn-ssr10.feiclouddd.me, port: 443, type: vmess, uuid: 293c9602-981f-4766-bb56-7bebb84da721, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /fgdfdsg, ws-headers: {Host: nn-ssr10.feiclouddd.me}}
-  - {name: 🇬🇧 英國35小東科技, server: 89.238.130.251, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 🇭🇰 香港10-50曉柒科技1, server: 120.209.53.122, port: 40001, type: trojan, password: 1a4ca082, skip-cert-verify: false}
-  - {name: 🇺🇸 美國80-105工具大師2, server: 192.40.59.227, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 🇺🇸 美國65-125工具大師1, server: 104.200.131.249, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+- {name: 🇺🇸 美國40小東科技, server: nn-ssr10.feiclouddd.me, port: 443, type: vmess, uuid: 293c9602-981f-4766-bb56-7bebb84da721, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /fgdfdsg, ws-headers: {Host: nn-ssr10.feiclouddd.me}}
+- {name: 🇭🇰 香港10-50曉柒科技1, server: 120.209.53.122, port: 40001, type: trojan, password: 1a4ca082, skip-cert-verify: false}
+- {"name":"🇨🇳 CN_151 | 6.16Mb","server":"p7.22332e.com","type":"ssr","country":"🇨🇳 CN","port":8333,"password":"passfw2xs4e!","cipher":"rc4-md5","protocol":"origin","obfs":"plain"}
+- {"name":"🇺🇸 US_46","server":"p7.22332e.com","type":"ssr","country":"🇨🇳CN","port":8333,"password":"passfw2xs4e!","cipher":"rc4-md5","protocol":"origin","obfs":"plain"}
+- {"name":"🇹🇼 TW_49","server":"twpro6025.azzico.space","type":"vmess","country":"🇨🇳CN","port":11554,"uuid":"15a76c75-da8a-3de2-bdc2-3bbd389d7ee1","alterId":2,"cipher":"auto","network":"ws","ws-path":"/video","servername":"twpro6025.azzico.space","ws-headers":{"HOST":"twpro6025.azzico.space"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇺🇸 US_43","server":"changsha.cu.data2china.com","type":"vmess","country":"🇨🇳CN","port":20007,"uuid":"ed085b7e-21b2-4e44-82c7-574b532c1b3d","alterId":2,"cipher":"auto","network":"ws","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇨🇳 CN_44","server":"henan.cm.data2china.com","type":"vmess","country":"🇨🇳CN","port":11807,"uuid":"ed085b7e-21b2-4e44-82c7-574b532c1b3d","alterId":2,"cipher":"auto","network":"ws","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇩🇪 DE_45","server":"transite-shcn2-02.iplc188.com","type":"vmess","country":"🇨🇳CN","port":10014,"uuid":"7be91d0d-a814-402c-ab5f-4ac32debed20","alterId":1,"cipher":"auto","network":"tcp","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
