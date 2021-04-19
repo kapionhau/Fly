@@ -43,4 +43,3 @@ proxies:
 - {"name":"Relay_🇨🇳CN-🇸🇬SG_46","server":"sg6-relay.kejibearnode.cf","type":"vmess","country":"🇨🇳CN","port":10025,"uuid":"3647ebdb-fa25-385f-a78b-f137811e586f","alterId":2,"cipher":"auto","network":"ws","ws-path":"/video","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
 - {"name":"🇹🇼TW_77","server":"d872c788-cbcc-4870-a7cc-d8dc559bb5fa.ddns.moonvm.net","type":"trojan","country":"🇹🇼TW","port":443,"password":"8167be25-9327-4986-a3fc-21eb82e9316e","skip-cert-verify":true,"udp":true}
 
-
