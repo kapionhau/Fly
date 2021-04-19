@@ -1,5 +1,4 @@
 proxies:
-- {"name":"Relay_-🇺🇸US_19","server":"free.milagropets.tech","type":"vmess","port":80,"uuid":"fe4b09d6-8af6-33a2-8340-d3539f8c8a4c","alterId":0,"cipher":"auto","network":"ws","ws-path":"/ray","ws-headers":{"Host":"free.milagropets.tech"},"http-opts":{},"h2-opts":{}}
 - {"name":"Relay_-🇸🇬SG_20","server":"sg1.vless.co","type":"trojan","port":443,"password":"fastssh.com","sni":"sg1.vless.co"}
 - {"name":"Relay_-🇨🇦CA_21","server":"t03.ssrsub.one","type":"trojan","port":443,"password":"ssrsub","sni":"t03.ssrsub.one"}
 - {"name":"Relay_🇨🇦CA-🇨🇦CA_27","server":"ssr-01.ssrsub.one","type":"ssr","country":"🇨🇦CA","port":8897,"password":"https://suo.yt/ssrsub","cipher":"aes-256-cfb","protocol":"origin","protocol-param":"t.me/SSRSUB","obfs":"plain"}
