@@ -1,7 +1,6 @@
 proxies:
 - {"name":"Relay_-🇺🇸US_01","server":"117.28.243.253","type":"ssr","port":8333,"password":"passfw2xs4e!","cipher":"rc4-md5","protocol":"origin","obfs":"plain"}
 - {"name":"Relay_-🇺🇸US_02","server":"117.28.243.253","type":"ssr","port":8333,"password":"passfw2xs4e!","cipher":"rc4-md5","protocol":"origin","protocol-param":"WWW.YOUNEED.WIN","obfs":"plain","obfs-param":"WWW.YOUNEED.WIN"}
-- {"name":"Relay_🇨🇳CN-🇺🇸US_35","server":"p7.22332e.com","type":"ssr","country":"🇨🇳CN","port":8333,"password":"passfw2xs4e!","cipher":"rc4-md5","protocol":"origin","obfs":"plain"}
 - {"name":"Relay_🇨🇳CN-🇹🇼TW_37","server":"twpro6025.azzico.space","type":"vmess","country":"🇨🇳CN","port":11554,"uuid":"15a76c75-da8a-3de2-bdc2-3bbd389d7ee1","alterId":2,"cipher":"auto","network":"ws","ws-path":"/video","servername":"twpro6025.azzico.space","ws-headers":{"HOST":"twpro6025.azzico.space"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
 - {"name":"Relay_🇨🇳CN-🇹🇼TW_38","server":"twpro6025.azzico.space","type":"vmess","country":"🇨🇳CN","port":11554,"uuid":"8bdd2925-7218-314b-987a-dcbb44d09852","alterId":2,"cipher":"auto","network":"ws","ws-path":"/video","servername":"twpro6024.azzico.pw","ws-headers":{"HOST":"twpro6024.azzico.pw"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
 - {"name":"Relay_🇭🇰HK-🇭🇰HK_159","server":"kaizen-hk-2.cn0.me","type":"trojan","country":"🇭🇰HK","port":443,"password":"18e513fe-f7f4-353d-84ca-bc9646fb2528mielink","skip-cert-verify":true,"udp":true}
