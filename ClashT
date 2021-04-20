@@ -1,6 +1,6 @@
 proxies:
 - {name: 🇭🇰 香港10-50曉柒科技1, server: 120.209.53.122, port: 40001, type: trojan, password: 1a4ca082, skip-cert-verify: false}
-- {name: 🇺🇸+" 美國11", server: p7.22332e.com, port: 8333, type: ssr, cipher: rc4-md5, password: passfw2xs4e!, protocol: origin, obfs: plain, protocol-param: , obfs-param: }
+- {name: 🇺🇸+" 美國11", server: "p7.22332e.com", port: "8333", type: "ssr", cipher: "rc4-md5", password: "passfw2xs4e!", protocol: "origin", obfs: "plain", protocol-param: "", obfs-param: ""}
 - {name: 🇹🇼 台灣12波動大, server: twpro6025.azzico.space, port: 11554, type: vmess, uuid: 15a76c75-da8a-3de2-bdc2-3bbd389d7ee1, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /video, ws-headers: {Host: twpro6025.azzico.space}}
 - {name: 🇺🇸 美國135, server: changsha.cu.data2china.com, port: 20007, type: vmess, uuid: ed085b7e-21b2-4e44-82c7-574b532c1b3d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: changsha.cu.data2china.com}}
 - {name: 🇯🇵 日本18-30, server: 120.209.53.122, port: 60002, type: trojan, password: 1a4ca082, skip-cert-verify: false, udp: true}
