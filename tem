@@ -1,4 +1,1 @@
 proxies:
-- {"name":"Relay_🇭🇰HK | 1.86Mb","server":"zhongzhuangazhk22.xiaobaiyun.me","type":"vmess","country":"🇭🇰HK","port":800,"uuid":"28aae7ef-076e-3e57-818f-29ff89e38d3e","alterId":2,"cipher":"auto","network":"ws","ws-path":"/hls","servername":"els.xiaobaiyun.me","ws-headers":{"HOST":"els.xiaobaiyun.me"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
-- {"name":"Relay_🇭🇰HK-🇷🇺RU_52","server":"zhongzhuangazhk22.xiaobaiyun.me","type":"vmess","country":"🇭🇰HK","port":800,"uuid":"28aae7ef-076e-3e57-818f-29ff89e38d3e","alterId":2,"cipher":"auto","network":"ws","ws-path":"/hls","servername":"els.xiaobaiyun.me","ws-headers":{"HOST":"els.xiaobaiyun.me"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
-
