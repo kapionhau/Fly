@@ -5,109 +5,133 @@ mode: Rule
 log-level: info
 external-controller: :9090
 proxies:
-  - {name: 美國40小東科技, server: nn-ssr10.feiclouddd.me, port: 443, type: vmess, uuid: 293c9602-981f-4766-bb56-7bebb84da721, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /fgdfdsg, ws-headers: {Host: nn-ssr10.feiclouddd.me}}
   - {name: 🇭🇰 香港10-50曉柒科技1, server: 120.209.53.122, port: 40001, type: trojan, password: 1a4ca082, skip-cert-verify: false}
-  - {name: 🇨🇳 CN_151 | 6.16Mb, server: p7.22332e.com, port: 8333, type: ssr, cipher: rc4-md5, password: passfw2xs4e!, protocol: origin, obfs: plain, protocol-param: "", obfs-param: ""}
-  - {name: 🇺🇸 US_46, server: p7.22332e.com, port: 8333, type: ssr, cipher: rc4-md5, password: passfw2xs4e!, protocol: origin, obfs: plain, protocol-param: "", obfs-param: ""}
-  - {name: 🇨🇳 TW_49, server: twpro6025.azzico.space, port: 11554, type: vmess, uuid: 15a76c75-da8a-3de2-bdc2-3bbd389d7ee1, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /video, ws-headers: {Host: twpro6025.azzico.space}}
-  - {name: 🇺🇸 US_43, server: changsha.cu.data2china.com, port: 20007, type: vmess, uuid: ed085b7e-21b2-4e44-82c7-574b532c1b3d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: changsha.cu.data2china.com}}
-  - {name: 🇨🇳 CN_44, server: henan.cm.data2china.com, port: 11807, type: vmess, uuid: ed085b7e-21b2-4e44-82c7-574b532c1b3d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: henan.cm.data2china.com}}
-  - {name: 🇩🇪 DE_45, server: transite-shcn2-02.iplc188.com, port: 10014, type: vmess, uuid: 7be91d0d-a814-402c-ab5f-4ac32debed20, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇺🇸 美國11, server: p7.22332e.com, port: 8333, type: ssr, cipher: rc4-md5, password: passfw2xs4e!, protocol: origin, obfs: plain, protocol-param: "", obfs-param: ""}
+  - {name: 🇹🇼 台灣12波動大, server: twpro6025.azzico.space, port: 11554, type: vmess, uuid: 15a76c75-da8a-3de2-bdc2-3bbd389d7ee1, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /video, ws-headers: {Host: twpro6025.azzico.space}}
+  - {name: 🇺🇸 美國135, server: changsha.cu.data2china.com, port: 20007, type: vmess, uuid: ed085b7e-21b2-4e44-82c7-574b532c1b3d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: changsha.cu.data2china.com}}
+  - {name: 🇯🇵 日本18-30, server: 120.209.53.122, port: 60002, type: trojan, password: 1a4ca082, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美國16-32, server: 120.209.53.122, port: 50001, type: trojan, password: 1a4ca082, skip-cert-verify: false, udp: true}
+  - {name: 🇯🇵 日本10-26, server: 140.238.41.42, port: 52364, type: ssr, cipher: aes-256-ctr, password: shumameili52361, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 3997:AEHJDq, obfs-param: afd313997.microsoft.com}
+  - {name: 🇯🇵 日本65-110, server: trojan-linode.internet-cloudflare-accelerate.tk, port: 443, type: trojan, password: 8dd2a8ba-465f-418f-ad83-65d3cd083cf0, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美國23-95, server: free.milagropets.tech, port: 80, type: vmess, uuid: fe4b09d6-8af6-33a2-8340-d3539f8c8a4c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /ray, ws-headers: {Host: free.milagropets.tech}}
+  - {name: 🇺🇸 美國6-110波動大, server: 3.ioqr.cn, port: 8080, type: vmess, uuid: 657f7981-0138-4c99-9199-51f62002d8e5, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /1234, ws-headers: {Host: 3.ioqr.cn}}
+  - {name: 🇺🇸 美國120, server: changsha.cu.data2china.com, port: 20007, type: vmess, uuid: ed085b7e-21b2-4e44-82c7-574b532c1b3d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: changsha.cu.data2china.com}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 美國40小東科技
       - 🇭🇰 香港10-50曉柒科技1
-      - 🇨🇳 CN_151 | 6.16Mb
-      - 🇺🇸 US_46
-      - 🇨🇳 TW_49
-      - 🇺🇸 US_43
-      - 🇨🇳 CN_44
-      - 🇩🇪 DE_45
+      - 🇺🇸 美國11
+      - 🇹🇼 台灣12波動大
+      - 🇺🇸 美國135
+      - 🇯🇵 日本18-30
+      - 🇺🇸 美國16-32
+      - 🇯🇵 日本10-26
+      - 🇯🇵 日本65-110
+      - 🇺🇸 美國23-95
+      - 🇺🇸 美國6-110波動大
+      - 🇺🇸 美國120
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - 美國40小東科技
       - 🇭🇰 香港10-50曉柒科技1
-      - 🇨🇳 CN_151 | 6.16Mb
-      - 🇺🇸 US_46
-      - 🇨🇳 TW_49
-      - 🇺🇸 US_43
-      - 🇨🇳 CN_44
-      - 🇩🇪 DE_45
+      - 🇺🇸 美國11
+      - 🇹🇼 台灣12波動大
+      - 🇺🇸 美國135
+      - 🇯🇵 日本18-30
+      - 🇺🇸 美國16-32
+      - 🇯🇵 日本10-26
+      - 🇯🇵 日本65-110
+      - 🇺🇸 美國23-95
+      - 🇺🇸 美國6-110波動大
+      - 🇺🇸 美國120
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 美國40小東科技
       - 🇭🇰 香港10-50曉柒科技1
-      - 🇨🇳 CN_151 | 6.16Mb
-      - 🇺🇸 US_46
-      - 🇨🇳 TW_49
-      - 🇺🇸 US_43
-      - 🇨🇳 CN_44
-      - 🇩🇪 DE_45
+      - 🇺🇸 美國11
+      - 🇹🇼 台灣12波動大
+      - 🇺🇸 美國135
+      - 🇯🇵 日本18-30
+      - 🇺🇸 美國16-32
+      - 🇯🇵 日本10-26
+      - 🇯🇵 日本65-110
+      - 🇺🇸 美國23-95
+      - 🇺🇸 美國6-110波動大
+      - 🇺🇸 美國120
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 美國40小東科技
       - 🇭🇰 香港10-50曉柒科技1
-      - 🇨🇳 CN_151 | 6.16Mb
-      - 🇺🇸 US_46
-      - 🇨🇳 TW_49
-      - 🇺🇸 US_43
-      - 🇨🇳 CN_44
-      - 🇩🇪 DE_45
+      - 🇺🇸 美國11
+      - 🇹🇼 台灣12波動大
+      - 🇺🇸 美國135
+      - 🇯🇵 日本18-30
+      - 🇺🇸 美國16-32
+      - 🇯🇵 日本10-26
+      - 🇯🇵 日本65-110
+      - 🇺🇸 美國23-95
+      - 🇺🇸 美國6-110波動大
+      - 🇺🇸 美國120
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 美國40小東科技
       - 🇭🇰 香港10-50曉柒科技1
-      - 🇨🇳 CN_151 | 6.16Mb
-      - 🇺🇸 US_46
-      - 🇨🇳 TW_49
-      - 🇺🇸 US_43
-      - 🇨🇳 CN_44
-      - 🇩🇪 DE_45
+      - 🇺🇸 美國11
+      - 🇹🇼 台灣12波動大
+      - 🇺🇸 美國135
+      - 🇯🇵 日本18-30
+      - 🇺🇸 美國16-32
+      - 🇯🇵 日本10-26
+      - 🇯🇵 日本65-110
+      - 🇺🇸 美國23-95
+      - 🇺🇸 美國6-110波動大
+      - 🇺🇸 美國120
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 美國40小東科技
       - 🇭🇰 香港10-50曉柒科技1
-      - 🇨🇳 CN_151 | 6.16Mb
-      - 🇺🇸 US_46
-      - 🇨🇳 TW_49
-      - 🇺🇸 US_43
-      - 🇨🇳 CN_44
-      - 🇩🇪 DE_45
+      - 🇺🇸 美國11
+      - 🇹🇼 台灣12波動大
+      - 🇺🇸 美國135
+      - 🇯🇵 日本18-30
+      - 🇺🇸 美國16-32
+      - 🇯🇵 日本10-26
+      - 🇯🇵 日本65-110
+      - 🇺🇸 美國23-95
+      - 🇺🇸 美國6-110波動大
+      - 🇺🇸 美國120
   - name: 📢 谷歌FCM
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 美國40小東科技
       - 🇭🇰 香港10-50曉柒科技1
-      - 🇨🇳 CN_151 | 6.16Mb
-      - 🇺🇸 US_46
-      - 🇨🇳 TW_49
-      - 🇺🇸 US_43
-      - 🇨🇳 CN_44
-      - 🇩🇪 DE_45
+      - 🇺🇸 美國11
+      - 🇹🇼 台灣12波動大
+      - 🇺🇸 美國135
+      - 🇯🇵 日本18-30
+      - 🇺🇸 美國16-32
+      - 🇯🇵 日本10-26
+      - 🇯🇵 日本65-110
+      - 🇺🇸 美國23-95
+      - 🇺🇸 美國6-110波動大
+      - 🇺🇸 美國120
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -130,14 +154,17 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 美國40小東科技
       - 🇭🇰 香港10-50曉柒科技1
-      - 🇨🇳 CN_151 | 6.16Mb
-      - 🇺🇸 US_46
-      - 🇨🇳 TW_49
-      - 🇺🇸 US_43
-      - 🇨🇳 CN_44
-      - 🇩🇪 DE_45
+      - 🇺🇸 美國11
+      - 🇹🇼 台灣12波動大
+      - 🇺🇸 美國135
+      - 🇯🇵 日本18-30
+      - 🇺🇸 美國16-32
+      - 🇯🇵 日本10-26
+      - 🇯🇵 日本65-110
+      - 🇺🇸 美國23-95
+      - 🇺🇸 美國6-110波動大
+      - 🇺🇸 美國120
 rules:
  - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
  - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
