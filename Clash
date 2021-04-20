@@ -51,7 +51,7 @@ proxy-groups:
       - 🇺🇸 美國55
   - name: ♻️ 自动选择
     type: url-test
-    url: http://www.gstatic.com/generate_204
+    url: https://www.google.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
