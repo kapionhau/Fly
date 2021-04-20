@@ -1,12 +1,26 @@
 proxies:
 - {name: 🇭🇰 香港10-50曉柒科技1, server: 120.209.53.122, port: 40001, type: trojan, password: 1a4ca082, skip-cert-verify: false}
-- {name: 🇺🇸+" 美國11", server: "p7.22332e.com", port: "8333", type: "ssr", cipher: "rc4-md5", password: "passfw2xs4e!", protocol: "origin", obfs: "plain", protocol-param: "", obfs-param: ""}
+- {name: 🇺🇸 美國11", server: "p7.22332e.com", port: "8333", type: "ssr", cipher: "rc4-md5", password: "passfw2xs4e!", protocol: "origin", obfs: "plain", protocol-param: "", obfs-param: ""}
 - {name: 🇹🇼 台灣12波動大, server: twpro6025.azzico.space, port: 11554, type: vmess, uuid: 15a76c75-da8a-3de2-bdc2-3bbd389d7ee1, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /video, ws-headers: {Host: twpro6025.azzico.space}}
-- {name: 🇺🇸 美國135, server: changsha.cu.data2china.com, port: 20007, type: vmess, uuid: ed085b7e-21b2-4e44-82c7-574b532c1b3d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: changsha.cu.data2china.com}}
+- {name: 🇺🇸 美國60-135, server: changsha.cu.data2china.com, port: 20007, type: vmess, uuid: ed085b7e-21b2-4e44-82c7-574b532c1b3d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: changsha.cu.data2china.com}}
 - {name: 🇯🇵 日本18-30, server: 120.209.53.122, port: 60002, type: trojan, password: 1a4ca082, skip-cert-verify: false, udp: true}
 - {name: 🇺🇸 美國16-32, server: 120.209.53.122, port: 50001, type: trojan, password: 1a4ca082, skip-cert-verify: false, udp: true}
 - {name: 🇯🇵 日本10-26, server: 140.238.41.42, port: 52364, type: ssr, cipher: aes-256-ctr, password: shumameili52361, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 3997:AEHJDq, obfs-param: afd313997.microsoft.com}
 - {name: 🇯🇵 日本65-110, server: trojan-linode.internet-cloudflare-accelerate.tk, port: 443, type: trojan, password: 8dd2a8ba-465f-418f-ad83-65d3cd083cf0, skip-cert-verify: false, udp: true}
 - {name: 🇺🇸 美國23-95, server: free.milagropets.tech, port: 80, type: vmess, uuid: fe4b09d6-8af6-33a2-8340-d3539f8c8a4c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /ray, ws-headers: {Host: free.milagropets.tech}}
 - {name: 🇺🇸 美國6-110波動大, server: 3.ioqr.cn, port: 8080, type: vmess, uuid: 657f7981-0138-4c99-9199-51f62002d8e5, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /1234, ws-headers: {Host: 3.ioqr.cn}}
-- {name: 🇺🇸 美國120, server: changsha.cu.data2china.com, port: 20007, type: vmess, uuid: ed085b7e-21b2-4e44-82c7-574b532c1b3d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: changsha.cu.data2china.com}}
+
+- {"name":"🇯🇵 日本60","server":"18.183.77.208","type":"ssr","country":"🇯🇵JP","port":444,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
+- {"name":"🇯🇵 日本15","server":"13.231.173.43","type":"ssr","country":"🇯🇵JP","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
+- {"name":"🇺🇸 美國39","server":"95.169.4.174","type":"ssr","country":"🇺🇸US","port":672,"password":"bwhskrskr01","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
+- {"name":"🇺🇸 美國29","server":"13.212.137.240","type":"ssr","country":"🇺🇸US","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
+- {"name":"🇺🇸 美國29","server":"13.212.113.145","type":"ssr","country":"🇺🇸US","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
+- {"name":"🇺🇸 美國75","server":"54.244.175.203","type":"ssr","country":"🇺🇸US","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
+- {"name":"🇺🇸 美國85","server":"34.217.68.45","type":"ssr","country":"🇺🇸US","port":444,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
+- {"name":"🇺🇸 美國60","server":"176.122.166.159","type":"ssr","country":"🇺🇸US","port":666,"password":"bwhskrskr01","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
+- {"name":"🇺🇸 美國43","server":"52.34.165.6","type":"ssr","country":"🇺🇸US","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
+- {"name":"🇨🇦 加拿大100","server":"t3.ssrsub.one","type":"trojan","port":8443,"password":"ssrsub","sni":"t3.ssrsub.one"}
+- {"name":"🇨🇦 加拿大115","server":"t1.ssrsub.one","type":"trojan","port":8443,"password":"ssrsub","sni":"t1.ssrsub.one"}
+- {"name":"🇨🇦 加拿大105","server":"t2.ssrsub.one","type":"trojan","port":8443,"password":"ssrsub","sni":"t2.ssrsub.one"}
+- {"name":"🇷🇺 俄羅斯26","server":"zhongzhuangazhk22.xiaobaiyun.me","type":"vmess","country":"🇭🇰HK","port":800,"uuid":"28aae7ef-076e-3e57-818f-29ff89e38d3e","alterId":2,"cipher":"auto","network":"ws","ws-path":"/hls","servername":"els.xiaobaiyun.me","ws-headers":{"HOST":"els.xiaobaiyun.me"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇺🇸 美國55","server":"taowai1.xiaobaiyun.me","type":"vmess","country":"🇰🇷KR","port":817,"uuid":"6d04dd65-c0b0-38b0-8d3a-be30a68cb55d","alterId":2,"cipher":"auto","network":"ws","ws-path":"/hls","servername":"mgalsj.xiaobaiyun.me","ws-headers":{"HOST":"mgalsj.xiaobaiyun.me"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
