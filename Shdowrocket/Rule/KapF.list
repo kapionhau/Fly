@@ -1,5 +1,44 @@
 # 更新時間:2021-12-12
-#需加速機場
+#需加速✈️
 # [Rule]
 #DOMAIN-SUFFIX,後綴域名
 #DOMAIN-KEYWORD,域名關鍵詞
+# ikuuu
+DOMAIN-SUFFIX,ikuuu.co
+# 小小布吉島
+DOMAIN-SUFFIX,v2.bujidao.org
+# 星夢數據
+DOMAIN-SUFFIX,stardream.pro
+# 神器
+DOMAIN-SUFFIX,v2r.proxypools.top
+# 牆角
+DOMAIN-SUFFIX,xn--nos885i.com
+# 狗子快跑
+DOMAIN-SUFFIX,www.freedog.me
+# Flyss
+DOMAIN-SUFFIX,www.flyss.xyz
+# GetfreeCloud
+DOMAIN-SUFFIX,portal.getfree.cloud
+# 懂的都懂
+DOMAIN-SUFFIX,dddd.cool
+# 奇點
+DOMAIN-SUFFIX,qd.freev2ray.xyz
+# 可樂雲
+DOMAIN-SUFFIX,xn--fjqzfu8n.xyz
+# 上網課
+DOMAIN-SUFFIX,shangwangke.org
+# 大✈️
+DOMAIN-SUFFIX,xn--mesr8b36x.com
+# 日語迷
+DOMAIN-SUFFIX,free.riyumi.xyz
+DOMAIN-SUFFIX,sub.dot86.xyz
+# 二次元
+DOMAIN-SUFFIX,ovo.ecyjc.com
+# PupuUp
+DOMAIN-SUFFIX,pupu.live
+# EdNovas
+DOMAIN-SUFFIX,ednovas.net
+# MarsLink
+DOMAIN-SUFFIX,ss.marslink.org
+# 魔法雲
+DOMAIN-SUFFIX,mfyun.org
