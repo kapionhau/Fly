@@ -1,1 +1,5 @@
-
+# 更新時間:2021-12-12
+#自用需加速Rule
+# [Rule]
+#DOMAIN-SUFFIX,後綴域名
+#DOMAIN-KEYWORD,域名關鍵詞
