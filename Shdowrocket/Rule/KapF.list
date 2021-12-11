@@ -1,1 +1,5 @@
-
+# 更新時間:2021-12-12
+#需加速機場
+# [Rule]
+#DOMAIN-SUFFIX,後綴域名
+#DOMAIN-KEYWORD,域名關鍵詞
