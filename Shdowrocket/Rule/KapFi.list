@@ -3,3 +3,9 @@
 # [Rule]
 #DOMAIN-SUFFIX,後綴域名
 #DOMAIN-KEYWORD,域名關鍵詞
+# 流媒體TVB
+USER-AGENT,mytv*
+DOMAIN-SUFFIX,mytvsuper.com
+DOMAIN-KEYWORD,nowtv100
+DOMAIN-KEYWORD,rthklive
+DOMAIN-SUFFIX,tvb.com
