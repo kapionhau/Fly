@@ -7,6 +7,10 @@
 # DuckDuckGo
 DOMAIN-KEYWORD,duckduckgo
 
+# Telegram
+#配合全球加速補充
+DOMAIN-SUFFIX,t.me
+
 # TikTok
 DOMAIN,p16-tiktokcdn-com.akamaized.net
 DOMAIN-SUFFIX,tiktok.com
