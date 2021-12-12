@@ -1,4 +1,4 @@
-# 更新時間:2021-12-12
+# 更新時間:2021-12-13
 #自用需加速Rule
 # [Rule]
 #DOMAIN-SUFFIX,後綴域名
@@ -6,6 +6,16 @@
 
 # DuckDuckGo
 DOMAIN-KEYWORD,duckduckgo
+
+# TikTok
+DOMAIN,p16-tiktokcdn-com.akamaized.net
+DOMAIN-SUFFIX,tiktok.com
+DOMAIN-SUFFIX,tiktokcdn.com
+DOMAIN-SUFFIX,tiktokv.com
+DOMAIN-KEYWORD,-tiktokcdn-com
+USER-AGENT,TikTok*
+
+
 
 # 博客-導航
 # ＞貓夢博客
