@@ -4,6 +4,9 @@
 #DOMAIN-SUFFIX,後綴域名
 #DOMAIN-KEYWORD,域名關鍵詞
 
+# DuckDuckGo
+DOMAIN-KEYWORD,duckduckgo
+
 # 博客-導航
 # ＞貓夢博客
 DOMAIN-SUFFIX,mengclub.xyz
