@@ -26,7 +26,10 @@ USER-AGENT,TikTok*
 DOMAIN-SUFFIX,mengclub.xyz
 
 # ＞MJJ導航
-DOMAIN-SUFFIX,www.mjjloc.com
+DOMAIN-SUFFIX,mjjloc.com
+
+# ＞Sabrina的萬事屋
+DOMAIN-SUFFIX,merlinblog.xyz
 
 
 # 流媒體TVB
