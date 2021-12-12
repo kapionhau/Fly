@@ -7,16 +7,20 @@
 ##DOMAIN-SUFFIX,ikuuu.co
 # 小小布吉島
 DOMAIN-SUFFIX,v2.bujidao.org
+DOMAIN-SUFFIX,bujidao302.com
 # 星夢數據
 DOMAIN-SUFFIX,stardream.pro
+DOMAIN-SUFFIX,stardream.pw
 # 神器
 DOMAIN-SUFFIX,v2r.proxypools.top
+DOMAIN-SUFFIX,v2r.proxypools.xyz
 # 牆角
 DOMAIN-SUFFIX,xn--nos885i.com
 # 狗子快跑
 DOMAIN-SUFFIX,www.freedog.me
 # Flyss
 DOMAIN-SUFFIX,www.flyss.xyz
+DOMAIN-SUFFIX,proxy.flyss.cc
 # GetfreeCloud
 DOMAIN-SUFFIX,portal.getfree.cloud
 # 懂的都懂
@@ -34,6 +38,7 @@ DOMAIN-SUFFIX,free.riyumi.xyz
 DOMAIN-SUFFIX,sub.dot86.xyz
 # 二次元
 DOMAIN-SUFFIX,ovo.ecyjc.com
+DOMAIN-SUFFIX,owo.ecydc.com
 # PupuUp
 DOMAIN-SUFFIX,pupu.live
 # EdNovas
