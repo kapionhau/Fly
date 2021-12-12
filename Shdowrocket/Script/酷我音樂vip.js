@@ -1,6 +1,7 @@
 /*
 更新時間:2021-12-12
 酷我音樂vip解鎖
+來源:https://github.com/NobyDa/Script
 源地址未改
 ***************************
 QuantumultX:
