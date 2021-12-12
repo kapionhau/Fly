@@ -9,7 +9,6 @@ QuantumultX:
 
 [rewrite_local]
 ^https?:\/\/.+?\.(pipi|fuli|xiang(jiao|xiang))apps\.com\/(ucp\/index|getGlobalData|(\/|)vod\/reqplay\/) url script-response-body https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/File/xjsp.js
-
 [mitm]
 hostname = ios.fuliapps.com, apple.fuliapps.com, ios.xiangjiaoapps.com, apple.xiangjiaoapps.com, *.xiangxiangapps.com, *.pipiapps.com
 
@@ -32,6 +31,7 @@ hostname = ios.fuliapps.com, apple.fuliapps.com, ios.xiangjiaoapps.com, apple.xi
 
 ***************************/
 
+/*
 var body = $response.body;
 var url = $request.url;
 
@@ -63,3 +63,64 @@ if (body) {
 } else {
   $done({})
 }
+*/
+
+/*
+BananaVideo全功能解鎖及去廣告
+來源:https://github.com/Gx3dong/Surge
+***************************
+QuantumultX:
+
+[rewrite_local]
+# > vip
+https:\/\/.*\.*apps.com url request-header Cookie:.+ request-header Cookie: xxx_api_auth=3363356266346536366237646536646538333833383139313237333735613665
+# > 去廣告
+https?:\/\/.*\.*apps\.com\/(ucp\/index|getGlobalData|.+\/reqplay\/) url script-response-body https://raw.githubusercontent.com/Gx3dong/Surge/master/JS/xjsp.js
+[MITM]
+hostname = *.*apps.com
+
+***************************
+Surge4 or Loon:
+
+[Header Rewrite]
+https:\/\/.*\.*apps\.com header-replace Cookie xxx_api_auth=3363356266346536366237646536646538333833383139313237333735613665
+[Script]
+http-response https?:\/\/.*\.*apps\.com\/(ucp\/index|getGlobalData|.+\/reqplay\/) requires-body=1,max-size=0,script-path= https://raw.githubusercontent.com/Gx3dong/Surge/master/JS/xjsp.js
+[MITM]
+hostname = *.*apps.com
+
+***************************
+Shadowrocket:
+
+
+
+[rewrite_local] - 未知處理
+^https:\/\/.*\.*apps\.com header-replace Cookie xxx_api_auth=3363356266346536366237646536646538333833383139313237333735613665
+
+BananaVideo = type=http-response,pattern=^https?:\/\/.*\.*apps\.com\/(ucp\/index|getGlobalData|.+\/reqplay\/),requires-body=1,max-size=0,script-path= https://raw.githubusercontent.com/Gx3dong/Surge/master/JS/xjsp.js
+[MITM]
+hostname = *.*apps.com
+*/
+
+
+var obj = JSON.parse($response.body);
+if ($request.url.indexOf("/ucp/index") != -1){
+obj.data.uinfo.down_daily_remainders = "999";
+obj.data.uinfo.play_daily_remainders = "999";
+obj.data.uinfo.minivod_play_daily_remainders = "999";
+obj.data.uinfo.minivod_down_daily_remainders = "999";
+}
+if ($request.url.indexOf("/getGlobalData") != -1){
+  delete obj.data.adgroups;
+  delete obj.data.iOS_adgroups;
+}
+if ($request.url.indexOf("/reqplay/") != -1){
+  obj.retcode = "0";
+  if(obj.data.hasOwnProperty("httpurl_preview")){
+  var playurl = obj.data["httpurl_preview"];
+  obj.data["httpurl"] = playurl;
+  };
+}
+
+$done({body: JSON.stringify(obj)});
+
