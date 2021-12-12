@@ -3,8 +3,8 @@
 # [Rule]
 #DOMAIN-SUFFIX,後綴域名
 #DOMAIN-KEYWORD,域名關鍵詞
-# ikuuu
-DOMAIN-SUFFIX,ikuuu.co
+# ikuuu -有時難連
+##DOMAIN-SUFFIX,ikuuu.co
 # 小小布吉島
 DOMAIN-SUFFIX,v2.bujidao.org
 # 星夢數據
@@ -43,3 +43,9 @@ DOMAIN-SUFFIX,ss.marslink.org
 DOMAIN-SUFFIX,marslink.cc
 # 魔法雲
 DOMAIN-SUFFIX,mfyun.org
+# NaikoCloud
+DOMAIN-SUFFIX,naiko.cloud
+# 忍者雲
+DOMAIN-SUFFIX,renzhe.cloud
+
+
