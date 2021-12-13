@@ -5,7 +5,7 @@
 #DOMAIN-KEYWORD,域名關鍵詞
 
 # DuckDuckGo
-DOMAIN-KEYWORD,duckduckgo
+DOMAIN-SUFFIX,duckduckgo.com
 
 # Telegram
 #配合全球加速補充
