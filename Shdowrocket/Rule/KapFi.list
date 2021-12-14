@@ -1,4 +1,4 @@
-# 更新時間:2021-12-13
+# 更新時間:2021-12-15
 #自用需加速Rule
 # [Rule]
 #DOMAIN-SUFFIX,後綴域名
@@ -270,6 +270,7 @@ DOMAIN-SUFFIX,telghub.com
 DOMAIN-SUFFIX,feijiyun.cc
 DOMAIN-SUFFIX,unblocktech.com
 DOMAIN-SUFFIX,mir4global.com
-
+DOMAIN-SUFFIX,souclou.com,,PROXY
+DOMAIN-SUFFIX,xunikawang.com,PROXY
 
 
