@@ -1,3 +1,5 @@
+# 備份時間:2021-12-15
+
 [Rule]
 # B站知乎去廣告
 URL-REGEX,^https?:\/\/api\.bilibili\.com\/pgc\/season\/app\/related\/recommend\?,REJECT
