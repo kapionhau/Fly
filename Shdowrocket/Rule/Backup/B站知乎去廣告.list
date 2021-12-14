@@ -11,4 +11,4 @@ URL-REGEX,^https?:\/\/www\.zhihu\.com\/api\/v\d+\/brand\/question/\d+/card\?,REJ
 URL-REGEX,^https?:\/\/www\.zhihu\.com\/appview\/(p|v2\/answer|zvideo)\/.*entry=(preload-topstory|preload-search|preload-subscription),REJECT
 
 [MITM]
-bilibili.com,api.bilibili.com,api.live.bilibili.com,api.vc.bilibili.com,app.bilibili.com,manga.bilibili.com,api.zhihu.com,appcloud2.zhihu.com,www.zhihu.com,zhuanlan.zhihu.com
+hostname = bilibili.com,api.bilibili.com,api.live.bilibili.com,api.vc.bilibili.com,app.bilibili.com,manga.bilibili.com,api.zhihu.com,appcloud2.zhihu.com,www.zhihu.com,zhuanlan.zhihu.com
