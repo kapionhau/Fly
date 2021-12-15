@@ -19,6 +19,9 @@ DOMAIN-SUFFIX,mjjloc.com
 
 # 雜項
 ##DOMAIN-SUFFIX,v2ex.com
+# OneDrive公用鏈接被中國直連ms後綴替代了
+DOMAIN-SUFFIX,1drv.ms
+
 DOMAIN-SUFFIX,telemetr.io
 DOMAIN-SUFFIX,ssrvps.org
 DOMAIN-SUFFIX,ssrv2ray.xyz
