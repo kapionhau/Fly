@@ -1,8 +1,66 @@
-# 更新時間:2021-12-16
+# 更新時間:2021-12-17
 #自行添加無法Direct
 
 #DOMAIN-SUFFIX
 #DOMAIN-KEYWORD
 #IP-CIDR
 
+# 補充list
 DOMAIN-SUFFIX,lncn.org
+DOMAIN-SUFFIX,herokuapp.com
+DOMAIN-SUFFIX,linbaoz.com
+DOMAIN-SUFFIX,6166888.xyz
+DOMAIN-SUFFIX,liyafly.com
+DOMAIN-SUFFIX,duyaoss.com
+DOMAIN-SUFFIX,woniuzfb.com
+DOMAIN-SUFFIX,chaojidianshi.net
+DOMAIN-SUFFIX,xn--4gqa476s.com
+DOMAIN-SUFFIX,go141.com
+DOMAIN-SUFFIX,41dmdm.com
+DOMAIN-SUFFIX,ddm31.com
+DOMAIN-SUFFIX,aau71.com
+DOMAIN-SUFFIX,aau73.com
+DOMAIN-SUFFIX,av95.com
+DOMAIN-SUFFIX,0595yw.info
+DOMAIN-SUFFIX,dizhi.i4hu.com
+DOMAIN-SUFFIX,4hu.tv
+DOMAIN-SUFFIX,zhao4hu.com
+DOMAIN-SUFFIX,x2g66.com
+DOMAIN-SUFFIX,4hu1234.com
+DOMAIN-SUFFIX,4hu2345.com
+DOMAIN-SUFFIX,4hu3456.com
+DOMAIN-SUFFIX,madouqu.com
+DOMAIN-SUFFIX,sexbjcam.com
+DOMAIN-SUFFIX,evosrv.com
+DOMAIN-SUFFIX,evoload.io
+DOMAIN-SUFFIX,mc.yandex.ru
+DOMAIN-SUFFIX,tapecontent.net
+DOMAIN-SUFFIX,strpst.com
+DOMAIN-SUFFIX,streamtape.com
+DOMAIN-SUFFIX,r.trwl1.com
+DOMAIN-SUFFIX,st.stripcdn.com
+DOMAIN-SUFFIX,aa2.app
+DOMAIN-SUFFIX,pkeytool.live
+DOMAIN-SUFFIX,iyideng.net
+DOMAIN-SUFFIX,nodtotherhythm.com
+DOMAIN-SUFFIX,bdsm.com
+DOMAIN-SUFFIX,playwithme.com
+DOMAIN-SUFFIX,161sex.com
+DOMAIN-SUFFIX,miss148.com
+DOMAIN-SUFFIX,sn11.cc
+DOMAIN-SUFFIX,hk148forum.com
+DOMAIN-SUFFIX,hk-pub.com
+DOMAIN-SUFFIX,161forum.com
+DOMAIN-SUFFIX,i161.com
+
+# 不穩定list
+DOMAIN-SUFFIX,ae85.cn
+DOMAIN-SUFFIX,44670.org
+DOMAIN-SUFFIX,kkzui.com
+DOMAIN-SUFFIX,tltds.cn
+DOMAIN-SUFFIX,jjxsxzw.com
+DOMAIN-SUFFIX,ajjxs.com
+DOMAIN-SUFFIX,txt990.com
+DOMAIN-SUFFIX,shukeba.com
+DOMAIN-SUFFIX,23qb.net
+
