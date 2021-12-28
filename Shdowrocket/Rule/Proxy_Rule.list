@@ -6,6 +6,28 @@
 #IP-CIDR
 
 # 補充list
+DOMAIN-SUFFIX,telemetr.io
+DOMAIN-SUFFIX,ssrvps.org
+DOMAIN-SUFFIX,ssrv2ray.xyz
+DOMAIN-SUFFIX,gd1214b.icu
+##DOMAIN-SUFFIX,hottg.com
+DOMAIN-SUFFIX,dianbaoqun.net
+DOMAIN-SUFFIX,yuncun.xyz
+DOMAIN-SUFFIX,iyuncun.xyz
+##DOMAIN-SUFFIX,fanqiang.network
+DOMAIN-SUFFIX,ensu.cc
+DOMAIN-SUFFIX,opensourcelibs.com
+DOMAIN-SUFFIX,xunying.me
+DOMAIN-SUFFIX,bravobuzz.com
+DOMAIN-SUFFIX,hly0928.com
+##DOMAIN-SUFFIX,hackmd.io
+##DOMAIN-SUFFIX,matters.news
+DOMAIN-SUFFIX,telghub.com
+DOMAIN-SUFFIX,feijiyun.cc
+DOMAIN-SUFFIX,unblocktech.com
+DOMAIN-SUFFIX,mir4global.com
+DOMAIN-SUFFIX,souclou.com
+DOMAIN-SUFFIX,xunikawang.com
 DOMAIN-SUFFIX,v2.bujidao.org
 DOMAIN-SUFFIX,bujidao302.com
 DOMAIN-SUFFIX,stardream.pro
@@ -126,6 +148,7 @@ DOMAIN,proxy.51798.xyz
 DOMAIN,66.112.210.60.16clouds.com
 
 # 不穩定list
+DOMAIN-SUFFIX,mjjloc.com
 DOMAIN-SUFFIX,ae85.cn
 DOMAIN-SUFFIX,44670.org
 DOMAIN-SUFFIX,kkzui.com
