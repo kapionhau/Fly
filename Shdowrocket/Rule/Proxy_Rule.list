@@ -1,4 +1,4 @@
-# 更新時間:2021-12-29
+# 更新時間:2022-01-13
 #自行添加無法Direct
 
 #DOMAIN-SUFFIX
@@ -139,6 +139,20 @@ DOMAIN-SUFFIX,niaocloud-rss.com
 DOMAIN-SUFFIX,avday.tv
 DOMAIN-SUFFIX,diomedesconsulting.com
 DOMAIN-SUFFIX,kasumigaura-zouen.com
+DOMAIN-SUFFIX,hottg.com
+DOMAIN-SUFFIX,tg-me.com
+DOMAIN-SUFFIX,sssoou.com
+DOMAIN-SUFFIX,baiozhuntuixing.com
+DOMAIN-SUFFIX,box2048.com
+DOMAIN-SUFFIX,gdaily.org
+DOMAIN-SUFFIX,businessweekly.com.tw
+DOMAIN-SUFFIX,114sim.com
+DOMAIN-SUFFIX,xnsms.com
+DOMAIN-SUFFIX,kakasms.com
+DOMAIN-SUFFIX,upyun.online
+DOMAIN-SUFFIX,yydsjs.xyz
+DOMAIN-SUFFIX,winnie.cloud
+
 DOMAIN,proxy.leefake.xyz
 DOMAIN,www.keenpink.com
 DOMAIN,kibris.eie-group.com
@@ -146,6 +160,17 @@ DOMAIN,londi.net
 DOMAIN,www.ruiouwir.co
 DOMAIN,proxy.51798.xyz
 DOMAIN,66.112.210.60.16clouds.com
+DOMAIN,kknews.cc
+DOMAIN,wemp.app
+DOMAIN,69av.one
+DOMAIN,receivefreesms.com
+DOMAIN,yunsu.org
+DOMAIN,yslink.cc
+DOMAIN,poi.aoao.me
+DOMAIN,honven.netlify.app
+DOMAIN,dlj.tf
+DOMAIN,signtool.cn
+DOMAIN,jiema.tech
 
 # 不穩定list
 DOMAIN-SUFFIX,mjjloc.com
@@ -163,4 +188,17 @@ DOMAIN-SUFFIX,freeair888.club
 DOMAIN-SUFFIX,speed-v.com
 DOMAIN-SUFFIX,limbopro.com
 DOMAIN-SUFFIX,xinppl.top
+DOMAIN-SUFFIX,sellaite.com
+DOMAIN-SUFFIX,tech-girlz.com
+DOMAIN-SUFFIX,ednovas.xyz
+DOMAIN-SUFFIX,mytrashmobile.com
+DOMAIN-SUFFIX,receivesms.co
+DOMAIN-SUFFIX,shejiinn.com
+DOMAIN-SUFFIX,mianfeijiema.com
+DOMAIN-SUFFIX,lothelper.com
+DOMAIN-SUFFIX,zsrq.net
 
+DOMAIN,zhuzhu12.xyz
+DOMAIN,shortcutsgallery.com
+DOMAIN,jiemahao.com
+DOMAIN,nk87c.cn
