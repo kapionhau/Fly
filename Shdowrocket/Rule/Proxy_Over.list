@@ -338,6 +338,10 @@ DOMAIN-SUFFIX,flzbcdn.xyz
 # 華文電視
 DOMAIN-SUFFIX,ocnttv.com
 
+# 綜合影視站解析
+DOMAIN:m3u.haiwaikan.com
+DOMAIN:cdn.ceres9350.com
+
 # 泥巴影院
 DOMAIN:nivod.tv
 DOMAIN:mudvod.tv
@@ -346,3 +350,9 @@ DOMAIN-SUFFIX,vod360.net
 # 唐人街影院
 DOMAIN:haiwaiyingyuan.tangrenjie.tv
 DOMAIN:cdn.efhie.com
+
+# 7喜影院(不穩定連接)
+DOMAIN:www.7xi.tv
+DOMAIN:vip.lz-cdn1.com
+DOMAIN:img.ffzypic.com
+
