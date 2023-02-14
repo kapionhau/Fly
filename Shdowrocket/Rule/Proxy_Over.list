@@ -343,16 +343,17 @@ DOMAIN:m3u.haiwaikan.com
 DOMAIN:cdn.ceres9350.com
 
 # 泥巴影院
-DOMAIN:nivod.tv
+DOMAIN-SUFFIX:nivod.tv
+DOMAIN:m.nbys.tv
 DOMAIN:mudvod.tv
 DOMAIN-SUFFIX,vod360.net
 
 # 唐人街影院
-DOMAIN:haiwaiyingyuan.tangrenjie.tv
+DOMAIN-SUFFIX:tangrenjie.tv
 DOMAIN:cdn.efhie.com
 
 # 7喜影院(不穩定連接)
-DOMAIN:www.7xi.tv
+DOMAIN-SUFFIX:7xi.tv
 DOMAIN:vip.lz-cdn1.com
 DOMAIN:img.ffzypic.com
 
