@@ -1,4 +1,4 @@
-# 更新時間:2022-01-13
+# 更新時間:2023-03-15
 #自行添加無法Direct
 
 #DOMAIN-SUFFIX
@@ -172,6 +172,26 @@ DOMAIN,dlj.tf
 DOMAIN,signtool.cn
 DOMAIN,jiema.tech
 
+DOMAIN-SUFFIX,dadiangan.gq
+DOMAIN,llcool.xyz
+DOMAIN,appczkeji.xyz
+DOMAIN,telegramgroups.com.hk
+DOMAIN,x001.cc
+DOMAIN,app.qxnav.com
+DOMAIN,yck.mumuceo.com
+DOMAIN,jietiyun.xyz
+DOMAIN,cloud.nt8.top
+DOMAIN,latiao.club
+DOMAIN,latiao.buzz
+DOMAIN,bpyun.live
+DOMAIN,dadiangan.xyz
+DOMAIN,pikap.me
+DOMAIN,platform.imobile-ent.com
+DOMAIN,hero3d.asia-cdn.com
+DOMAIN,sspanel.oracleusa.ml
+DOMAIN,yang-zi.com
+USER-AGENT,hero3d*
+
 # 不穩定list
 DOMAIN-SUFFIX,mjjloc.com
 DOMAIN-SUFFIX,ae85.cn
@@ -197,8 +217,16 @@ DOMAIN-SUFFIX,shejiinn.com
 DOMAIN-SUFFIX,mianfeijiema.com
 DOMAIN-SUFFIX,lothelper.com
 DOMAIN-SUFFIX,zsrq.net
-
 DOMAIN,zhuzhu12.xyz
 DOMAIN,shortcutsgallery.com
 DOMAIN,jiemahao.com
 DOMAIN,nk87c.cn
+DOMAIN,www.gmailnator.com
+DOMAIN,mkkhack.pw
+DOMAIN,mimon.cc
+DOMAIN,cloud.nt8.top
+DOMAIN,qingyun123.com
+DOMAIN,welink345.com
+DOMAIN,datangcorp.com
+DOMAIN,nice456.com
+DOMAIN-SUFFIX,windmill2021.com
