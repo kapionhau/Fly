@@ -348,23 +348,23 @@ DOMAIN-SUFFIX,flzbcdn.xyz
 DOMAIN-SUFFIX,ocnttv.com
 
 # 綜合影視站解析
-DOMAIN:m3u.haiwaikan.com
-DOMAIN:cdn.ceres9350.com
+DOMAIN,m3u.haiwaikan.com
+DOMAIN,cdn.ceres9350.com
 
 # 泥巴影院
-DOMAIN-SUFFIX:nivod.tv
-DOMAIN:m.nbys.tv
-DOMAIN:mudvod.tv
-DOMAIN:api.nivodz.com
+DOMAIN-SUFFIX,nivod.tv
+DOMAIN,m.nbys.tv
+DOMAIN,mudvod.tv
+DOMAIN,api.nivodz.com
 DOMAIN-SUFFIX,vod360.net
 
 # 唐人街影院
-DOMAIN-SUFFIX:tangrenjie.tv
-DOMAIN:cdn.efhie.com
-DOMAIN:vip.ffzy-online5.com
+DOMAIN-SUFFIX,tangrenjie.tv
+DOMAIN,cdn.efhie.com
+DOMAIN,vip.ffzy-online5.com
 
 # 7喜影院(不穩定連接)
-DOMAIN-SUFFIX:7xi.tv
-DOMAIN:vip.lz-cdn1.com
-DOMAIN:img.ffzypic.com
+DOMAIN-SUFFIX,7xi.tv
+DOMAIN,vip.lz-cdn1.com
+DOMAIN,img.ffzypic.com
 
