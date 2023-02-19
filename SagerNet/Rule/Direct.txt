@@ -1,0 +1,11 @@
+/*
+
+來源:
+倉庫:https://github.com/PaPerseller/chn-iplist/tree/master/SagerNet
+
+*/
+
+geosite:cn
+domain:fonts.googleapis.com
+domain:fonts.gstatic.com
+domain:softpedia.com
