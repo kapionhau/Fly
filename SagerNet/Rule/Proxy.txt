@@ -29,6 +29,6 @@ geosite:youtube
 geosite:gfw
 geosite:tiktok
 geosite:tvb
-
+geosite:greatfire
 
 
