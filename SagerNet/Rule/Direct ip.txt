@@ -1,0 +1,12 @@
+/*
+
+來源:https://raw.githubusercontent.com/PaPerseller/chn-iplist/master/SagerNet/direct-ip.txt
+倉庫:https://github.com/PaPerseller/chn-iplist/tree/master/SagerNet
+
+*/
+
+::1/128
+fc00::/7
+fe80::/10
+fd00::/8
+geoip:cn
