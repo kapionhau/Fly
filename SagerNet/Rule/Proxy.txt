@@ -1,6 +1,7 @@
 /*
 
 來源:https://raw.githubusercontent.com/PaPerseller/chn-iplist/master/SagerNet/proxy-domain.txt
+    &自添加
 倉庫:https://github.com/PaPerseller/chn-iplist/tree/master/SagerNet
 
 */
@@ -24,3 +25,10 @@ instagram
 twimg
 steam
 v2ex
+geosite:youtube
+geosite:gfw
+geosite:tiktok
+geosite:tvb
+
+
+
