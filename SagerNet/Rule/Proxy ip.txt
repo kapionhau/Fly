@@ -1,8 +1,16 @@
 /*
 
-來源:
+來源:https://raw.githubusercontent.com/PaPerseller/chn-iplist/master/SagerNet/proxy-ip.txt
+    &自補充&自定義添加
 倉庫:https://github.com/PaPerseller/chn-iplist/tree/master/SagerNet
 
 */
 
 geoip:telegram
+geoip:cloudflare
+geoip:cloudfront
+geoip:facebook
+geoip:fastly
+geoip:google
+geoip:netflix
+geoip:twitter
