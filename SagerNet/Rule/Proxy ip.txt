@@ -1,0 +1,8 @@
+/*
+
+來源:
+倉庫:https://github.com/PaPerseller/chn-iplist/tree/master/SagerNet
+
+*/
+
+geoip:telegram
