@@ -1,5 +1,5 @@
 /*
-
+更新時間:2023.02.20
 來源:https://raw.githubusercontent.com/PaPerseller/chn-iplist/master/SagerNet/proxy-domain.txt
     &自補充&自定義添加
 倉庫:https://github.com/PaPerseller/chn-iplist/tree/master/SagerNet
@@ -30,5 +30,23 @@ geosite:gfw
 geosite:tiktok
 geosite:tvb
 geosite:greatfire
+domain:xn--ehq00hgtfdmt.xyz
+domain:141-hk.com
+domain:sex141.com
+domain:xn--4gqa476s.com
+domain:i161.com
+domain:geobanner.alt.com
+domain:hk148forum.com
+full:m52kmkbbvmer.xyz
+full:www.ncc944.xyz
+domain:dlsq.cc
+domain:xssq.cc
+full:www.xsfz0.com
+full:www.lsj1.fun
+full:h5.miyun9876.xyz
+domain:kelecloud.xyz
+full:ednovas.world
+
+
 
 
