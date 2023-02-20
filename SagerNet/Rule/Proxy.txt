@@ -47,6 +47,6 @@ full:h5.miyun9876.xyz
 domain:kelecloud.xyz
 full:ednovas.world
 full:ednovas.tech
-
-
+domain:purefast.net
+full:whoisyourdady.gfw-wdnmd.com
 
