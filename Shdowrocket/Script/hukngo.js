@@ -3,7 +3,7 @@
 酷我音樂vip解鎖
 來源:https://github.com/nameking77/Qx
      https://github.com/I-am-R-E/Functional-Store-Hub
-源地址未改
+支持app版本10.0.x
 ***************************
 QuantumultX:
 [rewrite_local]
