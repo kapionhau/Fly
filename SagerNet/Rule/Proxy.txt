@@ -1,5 +1,5 @@
 /*
-更新時間:2023.02.22
+更新時間:2023.02.24
 來源:https://raw.githubusercontent.com/PaPerseller/chn-iplist/master/SagerNet/proxy-domain.txt
     &自補充&自定義添加
 倉庫:https://github.com/PaPerseller/chn-iplist/tree/master/SagerNet
