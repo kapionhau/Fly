@@ -1,4 +1,4 @@
-# 更新時間:2021-12-16
+# 更新時間:2023-02-27
 #需加速✈️
 # [Rule]
 #DOMAIN-SUFFIX,後綴域名
@@ -62,6 +62,8 @@ DOMAIN-SUFFIX,mojie.me
 DOMAIN-SUFFIX,xn--xnun88j.net
 DOMAIN-SUFFIX,xn--tsst36dsvs.com
 DOMAIN-SUFFIX,mojie.cyou
-
+# 三分
+DOMAIN-SUFFIX,xn--ehq00hgtfdmt.xyz
+DOMAIN,sanfen002.xyz
 
 
