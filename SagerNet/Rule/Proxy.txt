@@ -1,5 +1,5 @@
 /*
-更新時間:2023.02.24
+更新時間:2023.03.03
 來源:https://raw.githubusercontent.com/PaPerseller/chn-iplist/master/SagerNet/proxy-domain.txt
     &自補充&自定義添加
 倉庫:https://github.com/PaPerseller/chn-iplist/tree/master/SagerNet
@@ -47,6 +47,8 @@ full:h5.miyun9876.xyz
 domain:kelecloud.xyz
 full:ednovas.world
 full:ednovas.tech
+full:ednovas.dev
+domain:ednovas.net
 domain:purefast.net
 full:whoisyourdady.gfw-wdnmd.com
 domain:xn--94q649dc94a.com
