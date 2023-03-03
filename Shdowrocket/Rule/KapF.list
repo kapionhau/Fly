@@ -44,6 +44,8 @@ DOMAIN-SUFFIX,owo.ecydy.com
 DOMAIN-SUFFIX,pupu.live
 # EdNovas
 DOMAIN-SUFFIX,ednovas.net
+DOMAIN,ednovas.dev
+
 # MarsLink
 DOMAIN-SUFFIX,ss.marslink.org
 DOMAIN-SUFFIX,marslink.cc
