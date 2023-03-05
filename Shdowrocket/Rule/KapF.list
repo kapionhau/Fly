@@ -1,4 +1,4 @@
-# 更新時間:2023-03-03
+# 更新時間:2023-03-06
 #需加速✈️
 # [Rule]
 #DOMAIN-SUFFIX,後綴域名
@@ -70,4 +70,7 @@ DOMAIN-SUFFIX,mojie.cyou
 DOMAIN-SUFFIX,xn--ehq00hgtfdmt.xyz
 DOMAIN,sanfen002.xyz
 
+# 可樂雲
+DOMAIN,panel.keleofficial.com
+DOMAIN,dingyuedizhi.com
 
