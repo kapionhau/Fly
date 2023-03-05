@@ -30,6 +30,10 @@ DOMAIN-SUFFIX,dddd.cool
 DOMAIN-SUFFIX,qd.freev2ray.xyz
 # 可樂雲
 DOMAIN-SUFFIX,xn--fjqzfu8n.xyz
+DOMAIN,my.kelecloud.xyz
+DOMAIN,panel.keleofficial.com
+DOMAIN,dingyuedizhi.com
+
 # 上網課
 DOMAIN-SUFFIX,shangwangke.org
 # 大✈️
@@ -70,7 +74,4 @@ DOMAIN-SUFFIX,mojie.cyou
 DOMAIN-SUFFIX,xn--ehq00hgtfdmt.xyz
 DOMAIN,sanfen002.xyz
 
-# 可樂雲
-DOMAIN,panel.keleofficial.com
-DOMAIN,dingyuedizhi.com
 
