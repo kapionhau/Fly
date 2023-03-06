@@ -1,4 +1,4 @@
-# 更新時間:2023-02-16
+# 更新時間:2023-03-06
 #海外加速
 
 # Amazon
@@ -353,6 +353,7 @@ DOMAIN,cdn.ceres9350.com
 
 # 泥巴影院
 DOMAIN-SUFFIX,nivod.tv
+DOMAIN-SUFFIX,nivod4.tv
 DOMAIN,m.nbys.tv
 DOMAIN,mudvod.tv
 DOMAIN,api.nivodz.com
