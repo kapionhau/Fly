@@ -1,5 +1,5 @@
-# 更新時間:2023-03-15
-#自行添加無法Direct
+# 更新時間:2023-03-06
+#自行添加Proxy
 
 #DOMAIN-SUFFIX
 #DOMAIN-KEYWORD
@@ -28,40 +28,6 @@ DOMAIN-SUFFIX,unblocktech.com
 DOMAIN-SUFFIX,mir4global.com
 DOMAIN-SUFFIX,souclou.com
 DOMAIN-SUFFIX,xunikawang.com
-DOMAIN-SUFFIX,v2.bujidao.org
-DOMAIN-SUFFIX,bujidao302.com
-DOMAIN-SUFFIX,stardream.pro
-DOMAIN-SUFFIX,stardream.pw
-DOMAIN-SUFFIX,v2r.proxypools.top
-DOMAIN-SUFFIX,v2r.proxypools.xyz
-DOMAIN-SUFFIX,xn--nos885i.com
-DOMAIN-SUFFIX,qjget.xyz
-DOMAIN-SUFFIX,www.freedog.me
-DOMAIN-SUFFIX,www.flyss.xyz
-DOMAIN-SUFFIX,proxy.flyss.cc
-DOMAIN-SUFFIX,portal.getfree.cloud
-DOMAIN-SUFFIX,dddd.cool
-DOMAIN-SUFFIX,qd.freev2ray.xyz
-DOMAIN-SUFFIX,xn--fjqzfu8n.xyz
-DOMAIN-SUFFIX,shangwangke.org
-DOMAIN-SUFFIX,xn--mesr8b36x.com
-DOMAIN-SUFFIX,free.riyumi.xyz
-DOMAIN-SUFFIX,dot86.xyz
-DOMAIN-SUFFIX,ovo.ecyjc.com
-DOMAIN-SUFFIX,owo.ecydy.com
-DOMAIN-SUFFIX,pupu.live
-DOMAIN-SUFFIX,ednovas.net
-DOMAIN-SUFFIX,ss.marslink.org
-DOMAIN-SUFFIX,marslink.cc
-DOMAIN-SUFFIX,mfyun.org
-DOMAIN-SUFFIX,naiko.cloud
-DOMAIN-SUFFIX,renzhe.cloud
-DOMAIN-SUFFIX,startmy.cc
-DOMAIN-SUFFIX,aoog.me
-DOMAIN-SUFFIX,mojie.me
-DOMAIN-SUFFIX,xn--xnun88j.net
-DOMAIN-SUFFIX,xn--tsst36dsvs.com
-DOMAIN-SUFFIX,mojie.cyou
 DOMAIN-SUFFIX,lncn.org
 DOMAIN-SUFFIX,herokuapp.com
 DOMAIN-SUFFIX,linbaoz.com
@@ -152,7 +118,6 @@ DOMAIN-SUFFIX,kakasms.com
 DOMAIN-SUFFIX,upyun.online
 DOMAIN-SUFFIX,yydsjs.xyz
 DOMAIN-SUFFIX,winnie.cloud
-
 DOMAIN,proxy.leefake.xyz
 DOMAIN,www.keenpink.com
 DOMAIN,kibris.eie-group.com
@@ -171,7 +136,6 @@ DOMAIN,honven.netlify.app
 DOMAIN,dlj.tf
 DOMAIN,signtool.cn
 DOMAIN,jiema.tech
-
 DOMAIN-SUFFIX,dadiangan.gq
 DOMAIN,llcool.xyz
 DOMAIN,appczkeji.xyz
@@ -230,3 +194,93 @@ DOMAIN,welink345.com
 DOMAIN,datangcorp.com
 DOMAIN,nice456.com
 DOMAIN-SUFFIX,windmill2021.com
+
+# =====F=====
+# ikuuu
+DOMAIN-SUFFIX,ikuuu.co
+# 小小布吉島
+DOMAIN-SUFFIX,v2.bujidao.org
+DOMAIN-SUFFIX,bujidao302.com
+# 星夢數據
+DOMAIN-SUFFIX,stardream.pro
+DOMAIN-SUFFIX,stardream.pw
+# 神器
+DOMAIN-SUFFIX,v2r.proxypools.top
+DOMAIN-SUFFIX,v2r.proxypools.xyz
+# 牆角
+DOMAIN-SUFFIX,xn--nos885i.com
+DOMAIN-SUFFIX,qjget.xyz
+# 狗子快跑
+DOMAIN,www.freedog.me
+# Flyss
+DOMAIN,www.flyss.xyz
+DOMAIN-SUFFIX,proxy.flyss.cc
+# GetfreeCloud
+DOMAIN-SUFFIX,portal.getfree.cloud
+# 懂的都懂
+DOMAIN-SUFFIX,dddd.cool
+# 奇點
+DOMAIN-SUFFIX,qd.freev2ray.xyz
+# 可樂雲
+DOMAIN-SUFFIX,xn--fjqzfu8n.xyz
+DOMAIN,my.kelecloud.xyz
+DOMAIN,panel.keleofficial.com
+DOMAIN,dingyuedizhi.com
+DOMAIN,new.dingyuedizhi.com
+DOMAIN,b543a2a4-698a-11ed-a1eb-0242ac120002.dobaidu.com
+# 上網課
+DOMAIN-SUFFIX,shangwangke.org
+# 大✈️
+DOMAIN-SUFFIX,xn--mesr8b36x.com
+# 日語迷
+DOMAIN-SUFFIX,free.riyumi.xyz
+DOMAIN-SUFFIX,dot86.xyz
+# 二次元
+DOMAIN-SUFFIX,ovo.ecyjc.com
+DOMAIN-SUFFIX,owo.ecydy.com
+# PupuUp
+DOMAIN-SUFFIX,pupu.live
+# EdNovas
+DOMAIN-SUFFIX,ednovas.net
+DOMAIN,ednovas.dev
+DOMAIN,ednovas.world
+DOMAIN,ednovas.tech
+# MarsLink
+DOMAIN-SUFFIX,ss.marslink.org
+DOMAIN-SUFFIX,marslink.cc
+# 魔法雲
+DOMAIN-SUFFIX,mfyun.org
+# NaikoCloud
+DOMAIN-SUFFIX,naiko.cloud
+# 忍者雲
+DOMAIN-SUFFIX,renzhe.cloud
+# 起點
+DOMAIN-SUFFIX,startmy.cc
+# MiCloud
+DOMAIN-SUFFIX,aoog.me
+# 魔戒
+DOMAIN-SUFFIX,mojie.me
+DOMAIN-SUFFIX,xn--xnun88j.net
+DOMAIN-SUFFIX,xn--tsst36dsvs.com
+DOMAIN-SUFFIX,mojie.cyou
+# 三分
+DOMAIN-SUFFIX,xn--ehq00hgtfdmt.xyz
+DOMAIN,sanfen002.xyz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
