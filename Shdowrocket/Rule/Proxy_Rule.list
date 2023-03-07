@@ -1,4 +1,4 @@
-# 更新時間:2023-03-06
+# 更新時間:2023-03-07
 #自行添加Proxy
 
 #DOMAIN-SUFFIX
@@ -263,6 +263,7 @@ DOMAIN-SUFFIX,mojie.me
 DOMAIN-SUFFIX,xn--xnun88j.net
 DOMAIN-SUFFIX,xn--tsst36dsvs.com
 DOMAIN-SUFFIX,mojie.cyou
+DOMAIN-SUFFIX,mojie.best
 # 三分
 DOMAIN-SUFFIX,xn--ehq00hgtfdmt.xyz
 DOMAIN,sanfen002.xyz
